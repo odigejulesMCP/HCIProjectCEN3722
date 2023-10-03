@@ -26,7 +26,7 @@ Navigate to the project directory:
 bash
 Copy code
 cd weather-app
-Open index.html in your preferred browser.
+Open index.php in your preferred browser.
 
 Feedback & Contribution
 Feel free to fork the project, submit a pull request, report a bug, or give suggestions by opening an issue!

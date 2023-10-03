@@ -1,0 +1,8 @@
+# Deny direct access to all files
+Order deny,allow
+Deny from all
+
+# But allow access to specific files (like your main dashboard file)
+<Files "index.html">
+Allow from all
+</Files>

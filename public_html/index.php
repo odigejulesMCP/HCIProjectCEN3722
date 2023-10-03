@@ -1,3 +1,6 @@
+<?php include '/var/www/html/public_html/check_auth.php'; ?>
+
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>

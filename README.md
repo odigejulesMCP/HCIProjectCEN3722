@@ -1,5 +1,6 @@
 
 Welcome to the Weather App repository! This application provides users with current weather details for any city worldwide. Built with modern web technologies, it's designed to be both responsive and user-friendly, providing accurate and timely weather details to its users.
+![image](https://github.com/poetryInMotion365/HCIProjectCEN3722/assets/76713115/f7f344c7-42ce-4058-b095-a3765cab16cc)
 
 ![image](https://github.com/poetryInMotion365/HCIProjectCEN3722/assets/76713115/285cbb45-885b-4420-969c-17b34ef7f8c7)
 
